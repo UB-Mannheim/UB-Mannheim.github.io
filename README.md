@@ -1,6 +1,4 @@
----
-title: Open Source Projects
----
+# Open Source Projects at UB Mannheim
 
 ## Optical Character Recognition (OCR)
 
