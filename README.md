@@ -1,3 +1,7 @@
+---
+title: Open Source Projects
+---
+
 ## Optical Character Recognition (OCR)
 
 1. **OCR-fileformat** validates and transforms various OCR file formats (hOCR, ALTO, PAGE, FineReader): [[code](https://github.com/UB-Mannheim/ocr-fileformat)], [[GUI](https://digi.bib.uni-mannheim.de/ocr-fileformat/)], [[MIT License](https://github.com/UB-Mannheim/ocr-fileformat/blob/master/LICENSE)].
