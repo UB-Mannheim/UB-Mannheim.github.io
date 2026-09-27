@@ -27,14 +27,24 @@ Transcriptions (mostly PAGE XML, often created with eScriptorium or Transkribus)
 5. **digitue-gt** ground truth for digitized books and journals of the University Library of Tübingen: [[code](https://github.com/UB-Mannheim/digitue-gt)], [[CC0 1.0 Universal License](https://github.com/UB-Mannheim/digitue-gt/blob/main/LICENSE)].
 6. **stabi-berlin-gt** ground truth for digitized publications of Staatsbibliothek zu Berlin: [[code](https://github.com/UB-Mannheim/stabi-berlin-gt)], [[CC0 1.0 Universal License](https://github.com/UB-Mannheim/stabi-berlin-gt/blob/main/LICENSE)].
 7. **tudigi-gt** ground truth for digitized publications of ULB TU Darmstadt: [[code](https://github.com/UB-Mannheim/tudigi-gt)], [[CC0 1.0 Universal License](https://github.com/UB-Mannheim/tudigi-gt/blob/main/LICENSE)].
-8. **NZZ-black-letter-ground-truth** ground truth for 167 front pages of the *Neue Zürcher Zeitung* (1780–1947). Fork of the original dataset published by [impresso](https://github.com/impresso/NZZ-black-letter-ground-truth): [[code](https://github.com/UB-Mannheim/NZZ-black-letter-ground-truth)], [[CC BY-NC 4.0 License](https://github.com/UB-Mannheim/NZZ-black-letter-ground-truth/blob/master/LICENSE.txt)].
-9. **mkn-kurrent-gt** ground truth for Kurrent handwritten periodicals from the Moravian Knowledge Network. Fork of [bertsky/mkn-kurrent-gt](https://github.com/bertsky/mkn-kurrent-gt): [[code](https://github.com/UB-Mannheim/mkn-kurrent-gt)], [[CC BY-SA 4.0 License](https://github.com/UB-Mannheim/mkn-kurrent-gt/blob/main/LICENSE.md)].
-10. **dach-gt** ground truth and full text for selected prints of German archives and libraries: [[code](https://github.com/UB-Mannheim/dach-gt)], [[CC0 1.0 Universal License](https://github.com/UB-Mannheim/dach-gt/blob/main/LICENSE)].
-11. **gt-fraktur** ground truth for Fraktur/Gothic prints of the 19th century. Fork of the original data by UB Tübingen ([ubtue/gt-fraktur](https://github.com/ubtue/gt-fraktur), CC0): [[code](https://github.com/UB-Mannheim/gt-fraktur)].
-12. **Weisthuemer** transcriptions of Jacob Grimm's *Weisthümer* (Middle High German), for training or validating OCR models: [[code](https://github.com/UB-Mannheim/Weisthuemer)], [[CC0 1.0 Universal License](https://github.com/UB-Mannheim/Weisthuemer/blob/master/LICENSE)].
-13. **Fibeln** transcriptions of 19th-century primers (Fibeln), for training or validating OCR models: [[code](https://github.com/UB-Mannheim/Fibeln)], [[CC0 1.0 Universal License](https://github.com/UB-Mannheim/Fibeln/blob/master/LICENSE)].
+8. **MannheimerZeitungen** ground truth for historic newspapers, generated with GTMake: [[code](https://github.com/UB-Mannheim/MannheimerZeitungen)], [[CC0 1.0 Universal License](https://github.com/UB-Mannheim/MannheimerZeitungen/blob/main/LICENSE)].
+9. **charlottenburger-amtsschrifttum** ground truth from the collection *Charlottenburger Amtsschrifttum* (1879–1919, Fraktur): [[code](https://github.com/UB-Mannheim/charlottenburger-amtsschrifttum)], [[CC0 1.0 Universal License](https://github.com/UB-Mannheim/charlottenburger-amtsschrifttum/blob/main/LICENSE)].
+10. **NZZ-black-letter-ground-truth** ground truth for 167 front pages of the *Neue Zürcher Zeitung* (1780–1947). Fork of the original dataset published by [impresso](https://github.com/impresso/NZZ-black-letter-ground-truth): [[code](https://github.com/UB-Mannheim/NZZ-black-letter-ground-truth)], [[CC BY-NC 4.0 License](https://github.com/UB-Mannheim/NZZ-black-letter-ground-truth/blob/master/LICENSE.txt)].
+11. **mkn-kurrent-gt** ground truth for Kurrent handwritten periodicals from the Moravian Knowledge Network. Fork of [bertsky/mkn-kurrent-gt](https://github.com/bertsky/mkn-kurrent-gt): [[code](https://github.com/UB-Mannheim/mkn-kurrent-gt)], [[CC BY-SA 4.0 License](https://github.com/UB-Mannheim/mkn-kurrent-gt/blob/main/LICENSE.md)].
+12. **dach-gt** ground truth and full text for selected prints of German archives and libraries: [[code](https://github.com/UB-Mannheim/dach-gt)], [[CC0 1.0 Universal License](https://github.com/UB-Mannheim/dach-gt/blob/main/LICENSE)].
+13. **gt-fraktur** ground truth for Fraktur/Gothic prints of the 19th century. Fork of the original data by UB Tübingen ([ubtue/gt-fraktur](https://github.com/ubtue/gt-fraktur), CC0): [[code](https://github.com/UB-Mannheim/gt-fraktur)].
+14. **Weisthuemer** transcriptions of Jacob Grimm's *Weisthümer* (Middle High German), for training or validating OCR models: [[code](https://github.com/UB-Mannheim/Weisthuemer)], [[CC0 1.0 Universal License](https://github.com/UB-Mannheim/Weisthuemer/blob/master/LICENSE)].
+15. **Fibeln** transcriptions of 19th-century primers (Fibeln), for training or validating OCR models: [[code](https://github.com/UB-Mannheim/Fibeln)], [[CC0 1.0 Universal License](https://github.com/UB-Mannheim/Fibeln/blob/master/LICENSE)].
 
 Related tools: **Reichsanzeiger** (software and data for the newspaper's digital edition, [[code](https://github.com/UB-Mannheim/Reichsanzeiger)]), **ra-scripts** (scripts used during the Reichsanzeiger project, [[code](https://github.com/UB-Mannheim/ra-scripts)]), **reichsanzeiger-nlp** (NER/NEL corpus for the *Deutscher Reichsanzeiger*, [[code](https://github.com/UB-Mannheim/reichsanzeiger-nlp)], [[CC0 1.0 Universal License](https://github.com/UB-Mannheim/reichsanzeiger-nlp/blob/main/LICENSE))) and **VisualAnzeights** (analysis of Reichsanzeiger advertisements, [[code](https://github.com/UB-Mannheim/VisualAnzeights)]).
+
+## OCR projects
+
+Software and data from DFG and other digitization projects:
+
+1. **BeTrial** is a Bernoulli trial generator for OCR result validation, part of the *Aktienführer-Datenarchiv* DFG project: [[code](https://github.com/UB-Mannheim/BeTrial)], [[Apache License 2.0](https://github.com/UB-Mannheim/BeTrial/blob/master/LICENSE)].
+2. **GTCheck** validates modifications of OCR ground truth in a git repository, showing original text, modified version and image: [[code](https://github.com/UB-Mannheim/GTCheck)], [[Apache License 2.0](https://github.com/UB-Mannheim/GTCheck/blob/master/LICENSE)].
+3. **DCC** is the software and data for the digitalization, OCR and structuring of the books *The Descendants of the Colonial Clergy*: [[code](https://github.com/UB-Mannheim/DCC)].
 
 ## Data management & bibliographic tools
 
@@ -49,6 +59,7 @@ Related tools: **Reichsanzeiger** (software and data for the newspaper's digital
 ## Digital libraries
 
 1. **Kitodo.Presentation** is a feature-rich TYPO3 extension for building a METS- or IIIF-based digital library. UB Mannheim maintains a fork with development work (a no-Docker demo site, viewer theming and further features); the fork's documentation, which also covers that non-upstream work, is published separately: [[upstream](https://github.com/kitodo/kitodo-presentation)], [[code](https://github.com/UB-Mannheim/kitodo-presentation)], [[docs](https://ub-mannheim.github.io/kitodo-presentation/)], [[live demo](https://digi.bib.uni-mannheim.de/demo/)], [[GNU General Public License v3.0](https://github.com/UB-Mannheim/kitodo-presentation/blob/main/LICENSE.txt)].
+2. **omeka-matomo** is a plugin that integrates [Matomo Analytics](https://matomo.org/) into Omeka Classic installations: [[code](https://github.com/UB-Mannheim/omeka-matomo)], [[GNU General Public License v3.0](https://github.com/UB-Mannheim/omeka-matomo/blob/main/LICENSE)].
 
 ## AI applications
 
@@ -60,10 +71,11 @@ Related tools: **Reichsanzeiger** (software and data for the newspaper's digital
 ## Research data management
 
 1. **data-journals-dashboard** is a web dashboard for searching and filtering a community-curated list of data journals: [[code](https://github.com/UB-Mannheim/data-journals-dashboard)].
-2. **madabi** (Mannheim Data Bibliography) is a registry of metadata of all data created or collected by the university: [[code](https://github.com/UB-Mannheim/madabi)], [[MIT License](https://github.com/UB-Mannheim/madabi/blob/main/LICENSE)].
-3. **madata** is a tool for syncing the dataset metadata between MADATA and Wikidata: [[code](https://github.com/UB-Mannheim/madata)], [[MIT License](https://github.com/UB-Mannheim/madata/blob/main/LICENSE)].
-4. **theme-madataplan** is an RDMO theme for [madataplan](https://fdz.bib.uni-mannheim.de/madataplan): [[code](https://github.com/UB-Mannheim/theme-madataplan)].
-5. **awesome-RDM** is a curated list of awesome RDM resources for researchers and organisations: [[code](https://github.com/UB-Mannheim/awesome-RDM)], [[CC BY 4.0 License](https://github.com/UB-Mannheim/awesome-RDM/blob/main/LICENSE)].
+2. **awesome-research-software** is a curated list of production-ready open-source research software: [[code](https://github.com/UB-Mannheim/awesome-research-software)], [[CC0 1.0 Universal License](https://github.com/UB-Mannheim/awesome-research-software/blob/main/LICENSE)].
+3. **madabi** (Mannheim Data Bibliography) is a registry of metadata of all data created or collected by the university: [[code](https://github.com/UB-Mannheim/madabi)], [[MIT License](https://github.com/UB-Mannheim/madabi/blob/main/LICENSE)].
+4. **madata** is a tool for syncing the dataset metadata between MADATA and Wikidata: [[code](https://github.com/UB-Mannheim/madata)], [[MIT License](https://github.com/UB-Mannheim/madata/blob/main/LICENSE)].
+5. **theme-madataplan** is an RDMO theme for [madataplan](https://fdz.bib.uni-mannheim.de/madataplan): [[code](https://github.com/UB-Mannheim/theme-madataplan)].
+6. **awesome-RDM** is a curated list of awesome RDM resources for researchers and organisations: [[code](https://github.com/UB-Mannheim/awesome-RDM)], [[CC BY 4.0 License](https://github.com/UB-Mannheim/awesome-RDM/blob/main/LICENSE)].
 
 ## Knowledge graphs & Natural Language Processing (NLP)
 
@@ -73,6 +85,7 @@ Related tools: **Reichsanzeiger** (software and data for the newspaper's digital
 4. **MBI-KG** is a knowledge graph of structured and linked economic research data extracted from *Monatsschrift für Wirtschaft und Konjunktur*: [[code](https://github.com/UB-Mannheim/MBI-KG)], [[MIT License](https://github.com/UB-Mannheim/MBI-KG/blob/main/LICENSE.md)].
 5. **Amtsgericht-KG** analyzes and visualizes a knowledge graph of company registrations across German district courts: [[code](https://github.com/UB-Mannheim/Amtsgericht-KG)].
 6. **check-fake-references** is a script to check references for plausibility: [[code](https://github.com/UB-Mannheim/check-fake-references)], [[MIT License](https://github.com/UB-Mannheim/check-fake-references/blob/main/LICENSE)].
+7. **cas2iob** converts UIMA CAS XMI files exported from INCEpTION into IOB TSV files, handling nested NER tags, NEL tags and components: [[code](https://github.com/UB-Mannheim/cas2iob)], [[MIT License](https://github.com/UB-Mannheim/cas2iob/blob/main/LICENSE)].
 
 Archived: **RaiseWikibase** (tool for fast data import and knowledge graph construction with Wikibase, [[code](https://github.com/UB-Mannheim/RaiseWikibase)], [[docs](https://ub-mannheim.github.io/RaiseWikibase/)]).
 
