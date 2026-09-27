@@ -44,7 +44,7 @@ Software and data from DFG and other digitization projects:
 
 1. **BeTrial** is a Bernoulli trial generator for OCR result validation, part of the *Aktienführer-Datenarchiv* DFG project: [[code](https://github.com/UB-Mannheim/BeTrial)], [[Apache License 2.0](https://github.com/UB-Mannheim/BeTrial/blob/master/LICENSE)].
 2. **GTCheck** validates modifications of OCR ground truth in a git repository, showing original text, modified version and image: [[code](https://github.com/UB-Mannheim/GTCheck)], [[Apache License 2.0](https://github.com/UB-Mannheim/GTCheck/blob/master/LICENSE)].
-3. **DCC** is the software and data for the digitalization, OCR and structuring of the books *The Descendants of the Colonial Clergy*: [[code](https://github.com/UB-Mannheim/DCC)].
+3. **DCC** is the software and data for the digitalization, OCR and structuring of the books *The Descendants of the Colonial Clergy*: [[code](https://github.com/UB-Mannheim/DCC)], [[MIT License (code)](https://github.com/UB-Mannheim/DCC/blob/main/LICENSE.md)].
 
 ## Data management & bibliographic tools
 
